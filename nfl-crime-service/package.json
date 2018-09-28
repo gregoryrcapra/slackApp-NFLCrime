@@ -1,0 +1,21 @@
+{
+  "name": "sports-service",
+  "version": "1.0.0",
+  "description": "module servicing sports requests from slack commands",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Greg",
+    "Capra"
+  ],
+  "author": "Greg Capra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
